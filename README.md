@@ -1,2 +1,2 @@
-# TesPsikopat
- Tes Psikopat dengan bahasa pemrograman PHP
+# Psikotes
+ Psikotes dengan bahasa pemrograman PHP
